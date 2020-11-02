@@ -6,10 +6,15 @@ This project is for analyzing Amazon reviews written by members of the paid Amaz
 
 Following tasks are done for the project:
 
-1: Perform ETL on Amazon Product Reviews
-2: Determine Bias of Vine Reviews
-3: Report on the Analysis
+ - Perform ETL on Amazon Product Reviews
+ - Determine Bias of Vine Reviews
+ - Report on the Analysis
 
+Software:
+ - Google colab
+ - Python jupyter notebook
+ - AWS S3 and RDS with PostgreSQL
+ 
 
 ## Results
 
